@@ -1,0 +1,9 @@
+<h1> "thanksgiving" </h1>
+<p> "thanksgiving foods" </p>
+
+<ul>
+  <li>"turkey"</li>
+  <li>"pie"</li>
+  <li>"gravy"</li>
+  <li>"potatos"</li> 
+</ul>
